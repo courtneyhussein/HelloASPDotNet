@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hussein\\Desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj": {}
+    "C:\\Users\\Hussein\\desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hussein\\Desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj": {
+    "C:\\Users\\Hussein\\desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hussein\\Desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Hussein\\desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj",
         "projectName": "HelloASPDotNet",
-        "projectPath": "C:\\Users\\Hussein\\Desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj",
+        "projectPath": "C:\\Users\\Hussein\\desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\HelloASPDotNet.csproj",
         "packagesPath": "C:\\Users\\Hussein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hussein\\Desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\obj\\",
+        "outputPath": "C:\\Users\\Hussein\\desktop\\lcode\\projects\\ch10\\HelloASPDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hussein\\AppData\\Roaming\\NuGet\\NuGet.Config",

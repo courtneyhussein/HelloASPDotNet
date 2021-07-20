@@ -38,3 +38,5 @@ C:\Users\Hussein\Desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\ref
 C:\Users\Hussein\Desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\HelloASPDotNet.pdb
 C:\Users\Hussein\Desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\HelloASPDotNet.genruntimeconfig.cache
 C:\Users\Hussein\Desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\HelloASPDotNet.csproj.CopyComplete
+C:\Users\Hussein\desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\Hussein\desktop\lcode\projects\ch10\HelloASPDotNet\obj\Debug\net5.0\Razor\Views\Hello\Welcome.cshtml.g.cs
